@@ -1,3 +1,4 @@
+![passwordManager](https://github.com/harshjoshi004/PasswordManager/assets/138373025/2db9847a-3167-4df9-8554-ab2e2ddea4b4)
 
 # Password Manager Application Documentation
 
